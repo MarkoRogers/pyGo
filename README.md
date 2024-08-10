@@ -9,3 +9,4 @@ Updated on improved code efficiency
 Updated on updated documentation to reflect changes
 Updated on updated documentation to reflect changes
 Updated on fixed indentation issues
+Updated on consolidated similar functions
