@@ -12,3 +12,4 @@ Updated on fixed indentation issues
 Updated on consolidated similar functions
 Updated on aligned code with recent conventions
 Updated on refactored code for better modularity
+Updated on adjusted code structure for maintainability
