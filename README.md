@@ -18,3 +18,4 @@ Updated on improved code efficiency
 Updated on aligned code with recent conventions
 Updated on refactored code for better modularity
 Updated on adjusted code structure for maintainability
+Updated on fixed minor bugs
